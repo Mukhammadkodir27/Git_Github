@@ -1,0 +1,7 @@
+Git Command Lines:
+
+to set up a name you need: 
+git config --global user.name "Mukhammadkodir"
+
+to check your name:
+git config user.name
