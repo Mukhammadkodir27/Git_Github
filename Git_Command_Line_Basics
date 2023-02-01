@@ -5,3 +5,9 @@ git config --global user.name "Mukhammadkodir"
 
 to check your name:
 git config user.name
+
+to set up email 
+git config --global user.email kaan@gmail.com
+
+to check your email 
+git config user.email
