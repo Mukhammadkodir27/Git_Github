@@ -13,3 +13,13 @@ to check your email
 git config user.email
 
 > start .
+
+
+start . 
+start documentation.pdf
+start docs.docx
+start notes.txt
+
+touch main.cpp
+vim main.cpp
+:wq 
