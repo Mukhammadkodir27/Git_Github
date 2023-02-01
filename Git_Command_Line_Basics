@@ -11,3 +11,5 @@ git config --global user.email kaan@gmail.com
 
 to check your email 
 git config user.email
+
+> start .
