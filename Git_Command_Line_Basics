@@ -32,3 +32,15 @@ start notes.txt
 touch main.cpp
 vim main.cpp
 :wq 
+----creating files and directories
+
+mkdir Udemy 
+touch Notes.txt Notes.pdf Notes.docx
+
+----removing files and directories 
+
+rm Notes.txt Notes.pdf Notes.docx
+
+rm -rf Udemy 
+//Note that rm -rf is used to delete or remove directories 
+
