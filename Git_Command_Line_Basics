@@ -23,3 +23,12 @@ start notes.txt
 touch main.cpp
 vim main.cpp
 :wq 
+
+start . 
+start documentation.pdf
+start docs.docx
+start notes.txt
+
+touch main.cpp
+vim main.cpp
+:wq 
