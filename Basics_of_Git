@@ -8,3 +8,8 @@ Gid Add
 Git Commit 
 Git Log 
 Understanding the .git folder 
+
+Warning! 
+DO NOT INIT A REPO INSIDE OF A REPO!
+
+Before running git init command, use git status to verify that you are not currently inside of a repo
