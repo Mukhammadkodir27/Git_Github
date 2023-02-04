@@ -27,3 +27,21 @@ git commit -m "Changes are made!"
 git status 
 git log  -> this is the final step 
 
+
+
+The Master Branch
+
+In git, we are always working on a branch*
+It is default branch name is master.
+It does not do anything special or have fancy 
+powers. It is just like any other branch.
+
+Head is our current location that we are viewing or checking in our repository
+//So far, Head always points to the latest commit you made on the master branch
+Head is the thing that's currently open and we are checking out
+
+Viewing branches
+
+use  git branch to view all your existing branches
+* indicates the branch that you are currently on 
+
