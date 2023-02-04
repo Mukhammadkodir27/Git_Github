@@ -1,0 +1,5 @@
+#1 Useful
+Describe your changes in imperative mood, e.g.
+"make main.cpp do copy function" instead of "(This file path)
+makes copy function changes" or "I changed the main function to copy",
+as if you are giving orders to the codebase to change its behavior
