@@ -13,3 +13,17 @@ Warning!
 DO NOT INIT A REPO INSIDE OF A REPO!
 
 Before running git init command, use git status to verify that you are not currently inside of a repo
+
+
+------- Git Commit and Git Add and Git Log ---------
+
+git status
+git init 
+git status
+make the changes(create a file, edit the file save the file)
+git add .   -> this is for all files or
+git add text.txt text1.pdf text1.docx
+git commit -m "Changes are made!"
+git status 
+git log  -> this is the final step 
+
