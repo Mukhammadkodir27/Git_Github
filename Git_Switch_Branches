@@ -1,0 +1,9 @@
+git branch   - > to view the existing branches
+git branch SampleBranch   -> to create a branch named SampleBranch
+git switch   -> used to switch between branches
+git switch SampleBranch  -> to switch to SampleBranch branch
+git checkout Master  ->  to switch to Master branch 
+    checkout also can be used as switch 
+git switch -c SampleBranch2   - >  to create and swithc to SampleBranch2 branch
+
+
