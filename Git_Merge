@@ -1,0 +1,27 @@
+# How Git Stores HEAD & Branches
+
+We will often come across the term HEAD in Git
+HEAD is simply a pointer that refers to the current "location"
+in your repository. It points to a particular branch reference.
+So far, HEAD always points to the latest commit you made on 
+the master branch, but soon we'll se that we can move around
+and HEAD will change!
+
+
+> git branch
+> git branch <branch name>
+> git switch <branch name>
+> git checkout <branch name>  is same is git switch <branch name> 
+> git switch - c <branch name> - creates and shifts to change that branch at the same time
+> git branch -d <branch name>  - to delete the branch 
+> git branch -D <branch name>  - to delete the branch ()
+> git branch -m <new branch name>  - to change the name of the branch, but before switch to that branch and then change its name  (move/rename)
+> git commit --amend (not sure but it should be to reedit the commit which is done previously, the commit message ofc
+> git commit -a -m "dasada"  - this is also same with --amend
+# you can also use cat .git command to check for more info about HEAD and refs of the branches
+> start .   - to open the file or windows apps
+> code main.cpp  - to open the file in vscode
+# commit hash or ref numbers can be used to detect the commits made in the branches
+
+# go to the branch where you want to merge the new branch and use >git merge <ExampleBranchName>  to merge this examplebranch to master branch it is example
+>git branch -v to view the branches with their commits or lates commits 
